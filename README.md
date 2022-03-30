@@ -17,5 +17,8 @@
 
 # Frontend
 
+## 📂 타입스크립트
+👉 https://geunu97-6.notion.site/TypeScript-TS-714d19f5ee1e4be29f9b1c78ad0a2a15
+
 ## 📂 프론트엔드 
 👉 https://geunu97-6.notion.site/e22bc68bbc0e4071b474c19062e2f365
