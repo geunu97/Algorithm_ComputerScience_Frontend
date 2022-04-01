@@ -17,6 +17,9 @@
 
 ## 👨‍💻 Frontend
 
+#### 📂 자바스크립트
+👉 https://geunu97-6.notion.site/Javascript-JS-6c3e9a89885246e99ca33438609b6fd3
+
 #### 📂 타입스크립트
 👉 https://geunu97-6.notion.site/TypeScript-TS-714d19f5ee1e4be29f9b1c78ad0a2a15
 
