@@ -12,6 +12,8 @@
 
 ## 👨‍💻 Frontend
 
+#### 📂 <a href="https://www.notion.so/geunu97-6/HTML-9c18e99cd6d648eeb25797b0cfb0d9a3" title="HTML" target="_blank">HTML</a>
+
 #### 📂 <a href="https://geunu97-6.notion.site/CSS-606fd8a2fce948a6a96d063223500be7" title="CSS" target="_blank">CSS</a>
 
 #### 📂 <a href="https://geunu97-6.notion.site/Javascript-JS-6c3e9a89885246e99ca33438609b6fd3" title="자바스크립트" target="_blank">자바스크립트</a>
@@ -19,3 +21,15 @@
 #### 📂 <a href="https://geunu97-6.notion.site/TypeScript-TS-714d19f5ee1e4be29f9b1c78ad0a2a15" title="타입스크립트" target="_blank">타입스크립트</a>
 
 #### 📂 <a href="https://geunu97-6.notion.site/e22bc68bbc0e4071b474c19062e2f365" title="프론트엔드" target="_blank">프론트엔드</a>
+
+## 👨‍💻 Project
+
+#### 🌗 <a href="https://github.com/geunu97/Repository_Web_React1" title="간단한 일정관리 웹" target="_blank">(리액트)(개인)(클론코딩) 간단한 일정관리 웹</a>
+
+#### 🌗 <a href="https://github.com/geunu97/Repository_Web_React2" title="외부 API 연동한 뉴스 뷰어" target="_blank">(리액트)(개인)(클론코딩) 외부 API 연동한 뉴스 뷰어</a>
+
+#### 🌗 <a href="https://github.com/geunu97/Repository_Web_React3" title="블로그 만들기" target="_blank">(리액트)(개인)(클론코딩) 블로그 만들기</a>
+
+#### 🌗 <a href="https://github.com/geunu97/Repository_Web_VanillaJS1" title="고양이 사진 검색 사이트" target="_blank">(바닐라JS)(개인) 프로그래머스 Frontend Dev Matching 기출 문제 고양이 사진 검색 사이트 (~ing)</a>
+
+#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence" target="_blank">(리액트)(협업) 동아리 홈페이지 만들기 (~ing)</a>
