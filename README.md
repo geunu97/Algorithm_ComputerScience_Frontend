@@ -12,6 +12,8 @@
 
 ## 👨‍💻 Frontend
 
+#### 📂 <a href="https://geunu97-6.notion.site/CSS-606fd8a2fce948a6a96d063223500be7" title="CSS" target="_blank">CSS</a>
+
 #### 📂 <a href="https://geunu97-6.notion.site/Javascript-JS-6c3e9a89885246e99ca33438609b6fd3" title="자바스크립트" target="_blank">자바스크립트</a>
 
 #### 📂 <a href="https://geunu97-6.notion.site/TypeScript-TS-714d19f5ee1e4be29f9b1c78ad0a2a15" title="타입스크립트" target="_blank">타입스크립트</a>
