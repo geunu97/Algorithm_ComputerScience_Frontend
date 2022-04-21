@@ -12,17 +12,17 @@
 
 ## 👨‍💻 Frontend
 
-#### 📂 <a href="https://www.notion.so/geunu97-6/HTML-9c18e99cd6d648eeb25797b0cfb0d9a3" title="HTML" target="_blank">HTML</a>
+#### 🌕 <a href="https://www.notion.so/geunu97-6/HTML-9c18e99cd6d648eeb25797b0cfb0d9a3" title="HTML" target="_blank">HTML</a>
 
-#### 📂 <a href="https://geunu97-6.notion.site/CSS-606fd8a2fce948a6a96d063223500be7" title="CSS" target="_blank">CSS</a>
+#### 🌕 <a href="https://geunu97-6.notion.site/CSS-606fd8a2fce948a6a96d063223500be7" title="CSS" target="_blank">CSS</a>
 
-#### 📂 <a href="https://geunu97-6.notion.site/Javascript-JS-6c3e9a89885246e99ca33438609b6fd3" title="자바스크립트" target="_blank">Javascript</a>
+#### 🌕 <a href="https://geunu97-6.notion.site/Javascript-JS-6c3e9a89885246e99ca33438609b6fd3" title="자바스크립트" target="_blank">Javascript</a>
 
-#### 📂 <a href="https://geunu97-6.notion.site/TypeScript-TS-714d19f5ee1e4be29f9b1c78ad0a2a15" title="타입스크립트" target="_blank">Typescript</a>
+#### 🌕 <a href="https://geunu97-6.notion.site/TypeScript-TS-714d19f5ee1e4be29f9b1c78ad0a2a15" title="타입스크립트" target="_blank">Typescript</a>
 
-#### 📂  React (~ing)
+#### 🌕 <a href="https://geunu97-6.notion.site/React-48a04ad2c3a141bfb23bfe11e6c20b4c" title="React" target="_blank">React</a>
 
-#### 📂 <a href="https://geunu97-6.notion.site/e22bc68bbc0e4071b474c19062e2f365" title="프론트엔드" target="_blank">프론트엔드</a>
+#### 🌕 <a href="https://geunu97-6.notion.site/e22bc68bbc0e4071b474c19062e2f365" title="프론트엔드" target="_blank">프론트엔드</a>
 
 ## 👨‍💻 Project
 
