@@ -22,8 +22,6 @@
 
 #### 🌕 <a href="https://geunu97-6.notion.site/React-48a04ad2c3a141bfb23bfe11e6c20b4c" title="React" target="_blank">React</a>
 
-#### 🌕 <a href="https://geunu97-6.notion.site/e22bc68bbc0e4071b474c19062e2f365" title="프론트엔드" target="_blank">프론트엔드</a>
-
 ## 👨‍💻 Project
 
 #### 🌗 <a href="https://github.com/geunu97/Repository_Web_VanillaJS1" title="고양이 사진 검색 사이트" target="_blank">(바닐라JS)(개인) 프로그래머스 Frontend Dev Matching 기출 문제 고양이 사진 검색 사이트 </a>
