@@ -1,14 +1,20 @@
+## 🧑‍💻 Algorithm Problem
+
+#### 🌔 <a href="https://geunu97-1.notion.site/0355d1fba4f74ea89122a71f1bad7ebc" title="알고리즘" target="_blank">문제 (with Python)</a>
+
+#### 🌔 <a href="https://geunu97-1.notion.site/7f5e9ca750f6453ebb3b8a21e1878f9a" title="자료구조" target="_blank">문제 (with Javascript)</a>
+
 ## 🧑‍💻 Computer Science
 
-#### 📂 <a href="https://geunu97-1.notion.site/0355d1fba4f74ea89122a71f1bad7ebc" title="알고리즘" target="_blank">알고리즘</a>
+#### 🌖 <a href="https://geunu97-1.notion.site/0355d1fba4f74ea89122a71f1bad7ebc" title="알고리즘" target="_blank">알고리즘 (with Python)</a>
 
-#### 📂 <a href="https://geunu97-1.notion.site/7f5e9ca750f6453ebb3b8a21e1878f9a" title="자료구조" target="_blank">자료구조</a>
+#### 🌖 <a href="https://geunu97-1.notion.site/7f5e9ca750f6453ebb3b8a21e1878f9a" title="자료구조" target="_blank">자료구조 (with Python)</a>
 
-#### 📂 <a href="https://geunu97-1.notion.site/8a8f38b9b4a8401fa97def4b79b4e52a" title="네트워크" target="_blank">네트워크</a>
+#### 🌖 <a href="https://geunu97-1.notion.site/8a8f38b9b4a8401fa97def4b79b4e52a" title="네트워크" target="_blank">네트워크</a>
 
-#### 📂 <a href="https://geunu97-1.notion.site/72cccca0d85d44ea82410c4ca8d1a23b" title="운영체제" target="_blank">운영체제</a>
+#### 🌖 <a href="https://geunu97-1.notion.site/72cccca0d85d44ea82410c4ca8d1a23b" title="운영체제" target="_blank">운영체제</a>
 
-#### 📂 <a href="https://geunu97-1.notion.site/c89c7fe8c8124c80b64660f8db7a383d" title="데이터베이스" target="_blank">데이터베이스</a>
+#### 🌖 <a href="https://geunu97-1.notion.site/c89c7fe8c8124c80b64660f8db7a383d" title="데이터베이스" target="_blank">데이터베이스</a>
 
 ## 👨‍💻 Frontend
 
