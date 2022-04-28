@@ -1,8 +1,8 @@
 ## 🧑‍💻 Algorithm Problem
 
-#### 🌔 <a href="https://geunu97-1.notion.site/0355d1fba4f74ea89122a71f1bad7ebc" title="알고리즘" target="_blank">문제 (with Python)</a>
+#### 🌔 <a href="https://github.com/geunu97/Algorithm_Python" title="알고리즘" target="_blank">문제 (with Python)</a>
 
-#### 🌔 <a href="https://geunu97-1.notion.site/7f5e9ca750f6453ebb3b8a21e1878f9a" title="자료구조" target="_blank">문제 (with Javascript)</a>
+#### 🌔 <a href="https://github.com/geunu97/Algorithm_Javascript" title="자료구조" target="_blank">문제 (with Javascript)</a>
 
 ## 🧑‍💻 Computer Science
 
