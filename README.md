@@ -30,14 +30,14 @@
 
 ## 👨‍💻 개인 Project
 
-#### 🌗 <a href="https://github.com/geunu97/Repository_Web_VanillaJS1" title="고양이 사진 검색 사이트" target="_blank">(바닐라JS)(개인) 프로그래머스 Frontend Dev Matching 기출 문제 고양이 사진 검색 사이트 </a>
+#### 🌗 <a href="https://github.com/geunu97/Repository_Web_VanillaJS1" title="고양이 사진 검색 사이트" target="_blank">(바닐라JS) 프로그래머스 Frontend Dev Matching 기출 문제 고양이 사진 검색 사이트 </a>
 
-#### 🌗 <a href="https://github.com/geunu97/Repository_Web_React1" title="간단한 일정관리 웹" target="_blank">(리액트)(개인)(클론코딩) 간단한 일정관리 웹</a>
+#### 🌗 <a href="https://github.com/geunu97/Repository_Web_React1" title="간단한 일정관리 웹" target="_blank">(리액트)(클론코딩) 간단한 일정관리 웹</a>
 
-#### 🌗 <a href="https://github.com/geunu97/Repository_Web_React2" title="외부 API 연동한 뉴스 뷰어" target="_blank">(리액트)(개인)(클론코딩) 외부 API 연동한 뉴스 뷰어</a>
+#### 🌗 <a href="https://github.com/geunu97/Repository_Web_React2" title="외부 API 연동한 뉴스 뷰어" target="_blank">(리액트)(클론코딩) 외부 API 연동한 뉴스 뷰어</a>
 
-#### 🌗 <a href="https://github.com/geunu97/Repository_Web_React3" title="블로그 만들기" target="_blank">(리액트)(개인)(클론코딩) 블로그 만들기</a>
+#### 🌗 <a href="https://github.com/geunu97/Repository_Web_React3" title="블로그 만들기" target="_blank">(리액트)(클론코딩) 블로그 만들기</a>
 
 ## 👨‍💻 협업 Project
 
-#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence" target="_blank">(리액트)(협업)(1차배포) 동아리 홈페이지 (~ing)</a>
+#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence" target="_blank">(리액트)(1차배포) 동아리 홈페이지 (~ing)</a>
