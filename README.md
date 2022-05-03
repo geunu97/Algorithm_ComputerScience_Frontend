@@ -28,7 +28,7 @@
 
 #### 🌕 <a href="https://geunu97-6.notion.site/React-48a04ad2c3a141bfb23bfe11e6c20b4c" title="React" target="_blank">React</a>
 
-## 👨‍💻 Project
+## 👨‍💻 개인 Project
 
 #### 🌗 <a href="https://github.com/geunu97/Repository_Web_VanillaJS1" title="고양이 사진 검색 사이트" target="_blank">(바닐라JS)(개인) 프로그래머스 Frontend Dev Matching 기출 문제 고양이 사진 검색 사이트 </a>
 
@@ -38,5 +38,6 @@
 
 #### 🌗 <a href="https://github.com/geunu97/Repository_Web_React3" title="블로그 만들기" target="_blank">(리액트)(개인)(클론코딩) 블로그 만들기</a>
 
-#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence" target="_blank">(리액트)(협업)(1차배포) 동아리 홈페이지 (~ing)</a>
+## 👨‍💻 협업 Project
 
+#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence" target="_blank">(리액트)(협업)(1차배포) 동아리 홈페이지 (~ing)</a>
