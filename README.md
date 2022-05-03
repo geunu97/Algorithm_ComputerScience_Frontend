@@ -38,4 +38,5 @@
 
 #### 🌗 <a href="https://github.com/geunu97/Repository_Web_React3" title="블로그 만들기" target="_blank">(리액트)(개인)(클론코딩) 블로그 만들기</a>
 
-#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence" target="_blank">(리액트)(협업) 동아리 홈페이지 만들기 (~ing)</a>
+#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence" target="_blank">(리액트)(협업) 동아리 홈페이지 (~ing)</a>
+
