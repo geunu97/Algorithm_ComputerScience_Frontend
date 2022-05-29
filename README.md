@@ -40,4 +40,4 @@
 
 ## 👨‍💻 협업 Project
 
-#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence" target="_blank">(리액트)(TS)(SSR)(5월중 1차배포 예정) 동아리 홈페이지 (~ing)</a>
+#### 🌗 <a href="https://sequence.cbnu.ac.kr" title="Sequence" target="_blank">(리액트)(TS)(SSR)(1차배포) 동아리 홈페이지  </a> / <a href="https://github.com/cbnu-sequence/sequence-web-front" title="github" target="_blank">깃허브 </a>
