@@ -32,8 +32,12 @@
 
 #### 🌗 <a href="https://github.com/geunu97/Repository_Web_VanillaJS1" title="고양이 사진 검색 사이트" target="_blank">(바닐라JS) 프로그래머스 Frontend Dev Matching 기출 문제 고양이 사진 검색 사이트 </a>
 
-#### 🌗 <a href="https://github.com/geunu97/Repository_React_Cat-" title="고양이 사진 검색 사이트" target="_blank">(React) 바닐라JS로 만든 고양이 사진 검색 사이트 React로 바꿔보는 프로젝트 </a>
+#### 🌗 <a href="https://github.com/geunu97/Repository_React_Cat" title="고양이 사진 검색 사이트" target="_blank">(리액트)(JS) 바닐라JS로 만든 고양이 사진 검색 사이트 React로 바꿔보는 프로젝트 </a>
+
+#### 🌗 <a href="https://github.com/geunu97/Webpack">웹팩 다루기 </a>
 
 ## 👨‍💻 협업 Project
 
-#### 🌗 <a href="https://sequence.cbnu.ac.kr" title="Sequence" target="_blank">(리액트)(TS)(SSR)(배포) 동아리 홈페이지  </a>  |  <a href="https://github.com/cbnu-sequence/sequence-web-front" title="github" target="_blank">깃허브 </a>
+#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence">(리액트)(TS)(SSR) 학습 보조형 커뮤니티 서비스 시퀀스 </a>
+
+#### 🌗 <a href="https://github.com/Matching-Sports/matching-web-front" title="Matching">(리액트)(TS)(CSR) 매칭 서비스 (~ing) </a>
