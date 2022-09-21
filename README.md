@@ -38,6 +38,6 @@
 
 ## 👨‍💻 협업 Project
 
-#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence">(리액트)(TS)(SSR) 학습 보조형 커뮤니티 서비스 시퀀스 </a>
+#### 🌗 <a href="https://github.com/cbnu-sequence/sequence-web-front" title="Sequence">(리액트)(TS)(SSR) Sequence </a>
 
-#### 🌗 <a href="https://github.com/Matching-Sports/matching-web-front" title="Matching">(리액트)(TS)(CSR) 매칭 서비스 (~ing) </a>
+#### 🌗 <a href="https://github.com/cbnu-sequence/proreviewer-web-front">(리액트)(TS)(SSR) Pro Reviewer - 프론트 (~ing) </a>
